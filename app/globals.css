@@ -45,7 +45,7 @@
     --secondary-foreground: 210 20% 98%;
     --tertiary: 233 19% 23%;
     --muted: 12 6.5% 15.1%;
-    --muted-foreground: 210 19% 16%;
+    --muted-foreground: 230 25% 70%;
     --accent: 12 6.5% 15.1%;
     --accent-foreground: 60 9.1% 97.8%;
     --destructive: 0 62.8% 30.6%;
@@ -70,4 +70,8 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.h1{
+  @apply text-5xl xl:text-[61px] xl:leading-[80px] tracking-[-2px] font-bold mb-5 mt-4
 }
