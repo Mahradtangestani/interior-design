@@ -11,7 +11,7 @@ import { usePathname } from "next/navigation";
 
 const Header = ()=>{
     
-    const [header , setHeader] = useState(true)
+    const [header , setHeader] = useState(false)
     const pathname = usePathname()
 
     useEffect(()=>{
