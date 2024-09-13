@@ -3,6 +3,7 @@ import "./globals.css";
 
 import Header from "../components/Header";
 import { ThemeProvider } from "../components/ThemeProvider";
+import Footer from "../components/Footer";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
       <ThemeProvider attribute="class" defaultTheme="light">
         <Header/>
         {children}
+        <Footer/>
       </ThemeProvider>
       </body>
     </html>
