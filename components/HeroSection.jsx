@@ -47,10 +47,10 @@ const HeroSection = () => {
       <div className="w-1/2">
         <Image
         src="/image/hall.png"
-        width={800}
+        width={700}
         height={500}
         alt=""
-        className="absolute right-20 xl:h-[448px] xl:w-[700px] lg:h-[344px] lg:w-[500px] hidden lg:block"
+        className="xl:h-[448px] xl:w-[640px] lg:h-[344px] lg:w-[500px] hidden lg:block"
         />
       </div>
     </div>

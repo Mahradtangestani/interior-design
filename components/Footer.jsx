@@ -10,7 +10,7 @@ export default function Footer(){
     return (
         <div className="bg-tertiary">
             <div className="w-3/4 mx-auto lg:grid lg:grid-cols-2 py-14">
-                <div className="grid gap-4 pb-4 text-left lg:pb-0 lg:grid-cols-3">
+                <div className="grid gap-4 pb-4 text-left lg:pb-0 lg:grid-cols-3 md:grid-cols-2">
                     <motion.div
                     initial="offscreen"
                     whileInView={"onscreen"}

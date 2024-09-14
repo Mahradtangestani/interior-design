@@ -20,7 +20,7 @@ const Gallery = ()=>{
                     <img className="h-auto max-w-full rounded-lg hover:scale-90 transition-all" src="/image/gallery1.jpg" alt="" />
                 </div>
                 <div>
-                    <img className="h-auto max-w-full rounded-lg hover:scale-90 transition-all" src="/image/living.jpg" alt="" />
+                    <img className="h-auto max-w-full rounded-lg hover:scale-90 transition-all" src="/image/gallerys6.jpg" alt="" />
                 </div>
             </div>
             <div className="flex flex-col gap-4">

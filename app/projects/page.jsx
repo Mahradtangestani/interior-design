@@ -39,8 +39,8 @@ const Projects = ()=>{
                             <Image src={project.image} width={480} height={380} alt="" className="w-full"/>
                         </div>
                         <div className="absolute bottom-0 right-0 bg-white/70 dark:bg-black/40
-                        flex-col items-center justify-end w-96 gap-32 p-12 text-xl transition duration-300 ease-in-out translate-y-full from-transparent to to-black group-hover:translate-y-0">
-                            <h1 className="text-2xl font-semibold">{project.name}</h1>
+                        flex-col items-center justify-end sm:w-96 w-52 sm:gap-32 gap-1 sm:p-12 p-1 sm:text-xl text-sm transition duration-300 ease-in-out translate-y-full from-transparent to to-black group-hover:translate-y-0">
+                            <h1 className="sm:text-2xl text-xl font-semibold">{project.name}</h1>
                             <p className="py-4">{project.description}</p>
                         </div>
                     </div>
