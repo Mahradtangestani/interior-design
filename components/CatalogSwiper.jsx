@@ -33,15 +33,16 @@ export default function CatalogSwiperSection(){
                 whileInView={"onscreen"}
                 variants={tagVariants}
                 className="grid grid-cols-2 text-gray-500 gap-x-8">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum odit dignissimos 
-                    quas porro numquam? Ullam repellendus dignissimos sequi esse tempora? Lorem ipsum dolor
-                    sit amet consectetur adipisicing elit. Nobis, architecto. Lorem ipsum, dolor sit amet 
-                    consectetur adipisicing elit. Iure, libero.
+                    <p>
+                       Our approach combines sophistication with comfort to enhance your living space.
+                       We bring a touch of elegance and style to every corner of your home.
+                       Let our expert designers craft a space that reflects your personal taste.
+                       Transform your environment into a haven of relaxation and beaut
                     </p>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum odit dignissimos 
-                    quas porro numquam? Ullam repellendus dignissimos sequi esse tempora? Lorem ipsum dolor
-                    sit amet consectetur adipisicing elit. Nobis, architecto. Lorem ipsum, dolor sit amet 
-                    consectetur adipisicing elit. Iure, libero.
+                    <p>Elevate your home with a blend of modern and classic elegance.
+                       Our bespoke decor solutions combine style and comfort seamlessly.
+                       Every detail is crafted to create a luxurious and inviting atmosphere.
+                       Transform your space into a sanctuary of beauty and relaxation.
                     </p>
                 </motion.div>
 

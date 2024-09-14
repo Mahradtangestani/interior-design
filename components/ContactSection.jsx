@@ -10,7 +10,7 @@ const posts =[
     {
         id:1,
         title:"Boost your conversion rate",
-        desciption: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis doloribus, quod nisi magnam non culpa perspiciatis corrupti voluptatem eveniet distinctio?",
+        desciption: "The strategies provided significantly increased our conversion rate. We are seeing great results and higher engagement!",
         date: "Mar 16, 2024",
         datetime: "2024-3-16",
         category: {title: '4.7' , href: "#"},
@@ -25,7 +25,7 @@ const posts =[
     {
         id:2,
         title:"Boost your conversion rate",
-        desciption: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis doloribus, quod nisi magnam non culpa perspiciatis corrupti voluptatem eveniet distinctio?",
+        desciption: "Since implementing these methods, our conversion rates have improved dramatically. Excellent service and support!",
         date: "Mar 16, 2024",
         datetime: "2024-3-16",
         category: {title: '4.9' , href: "#"},
@@ -40,7 +40,7 @@ const posts =[
     {
         id:3,
         title:"Boost your conversion rate",
-        desciption: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis doloribus, quod nisi magnam non culpa perspiciatis corrupti voluptatem eveniet distinctio?",
+        desciption: "Amazing results! The tailored solutions helped us achieve a substantial boost in conversions. Highly recommended!",
         date: "Mar 16, 2024",
         datetime: "2024-3-16",
         category: {title: '4.2' , href: "#"},

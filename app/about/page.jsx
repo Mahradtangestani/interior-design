@@ -37,9 +37,10 @@ const About = ()=>{
                     initial="offscreen"
                     whileInView={"onscreen"}
                     variants={desVariants}
-                    className="text-2xl text-center font-medium pb-10 mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor rem harum 
-                       esse minus ipsa adipisci, sint minima voluptates voluptas sit! Labore provident,
-                       recusandae sapiente consectetur fuga dignissimos facilis quo culpa.
+                    className="text-2xl text-center font-medium pb-10 mt-5">
+                    Discover innovative and stylish interior design solutions with us.
+                    Our expert team crafts unique spaces that reflect your vision and lifestyle.
+                    Transform your home with our creative ideas and exceptional design expertise.
                     </motion.p>
                 </div>
 
@@ -55,18 +56,16 @@ const About = ()=>{
                     whileInView={"onscreen"}
                     variants={tagVariants}
                     >
-                        <p className="pb-8 tracking-wide mt-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore quibusdam odio 
-                            sequi aperiam dolore error soluta accusantium laudantium recusandae similique explicabo,
-                            reiciendis quia commodi quam harum. Praesentium, hic tempore dolorum veniam qui at quas
-                            voluptatem eius! At suscipit exercitationem, aliquid velit reiciendis 
-                            accusantium laborum consequatur nihil laboriosam, optio, officiis assumenda. <br/><br/>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore quibusdam odio 
-                            sequi aperiam dolore error soluta accusantium laudantium recusandae similique explicabo,
-                            reiciendis quia commodi quam harum. Praesentium, hic tempore dolorum veniam qui at quas
-                            voluptatem eius! At suscipit exercitationem, aliquid velit reiciendis 
-                            accusantium laborum consequatur nihil laboriosam, optio, officiis assumenda. <br/><br/>
+                        <p className="pb-8 tracking-wide mt-6">Discover Innovative Interior Design Solutions
+                            Our team specializes in creating personalized and stylish spaces tailored to your needs.
+                            We combine creativity with expertise to bring your vision to life.
+                            Experience the difference with our exceptional design services and attention to detail. <br/><br/>
+                            Transform Your Home with Our Expertise
+                            We offer unique and elegant interior design solutions that reflect your personal style.
+                            Our professional team is dedicated to crafting spaces that are both functional and beautiful.
+                            Let us help you create a home that you’ll love coming back to every day. <br/><br/>
                             <span className="text-xl font-extrabold tracking-tight">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, nemo?
+                            We deliver creative and personalized interior solutions that transform your home into a stylish haven.
                             </span>
                         </p>
                         <Button className="inline-flex items-center px-8 py-3 shadow-lg hover:bg-gray-800

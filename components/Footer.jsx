@@ -62,9 +62,10 @@ export default function Footer(){
                         <button className="absolute bg-black text-white rounded-full h-10 px-3 text-sm top-2 right-2
                         ring-2 hover:border-2 hover:border-black hover:bg-white hover:text-black dark:bg-primary ">Subscribe</button>
                     </div>
-                    <p className="pt-4 text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur facilis, dicta, 
-                        cumque corrupti aliquid labore quia reprehenderit laborum ipsum rerum fuga 
-                        mollitia cupiditate beatae odio ducimus aspernatur, sunt quas minus.
+                    <p className="pt-4 text-gray-500">
+                         Stay in the loop with the latest updates and offers.
+                         Sign up to receive our newsletter and never miss out on important news.
+                         Get valuable insights and exclusive content directly to your inbox.
                     </p>
                 </motion.div>
             </div>
