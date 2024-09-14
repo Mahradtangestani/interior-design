@@ -8,6 +8,9 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { desVariants, tagVariants, titleVariants } from "../../utils/animation";
 import { useRef } from "react";
 
+
+
+
 const About = ()=>{
      
     const ref = useRef(null)
